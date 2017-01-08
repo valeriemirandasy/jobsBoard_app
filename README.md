@@ -1,3 +1,1 @@
-== README
-
-Jobs Board using Ruby on Rails.
+# Jobs Board using Ruby on Rails.
